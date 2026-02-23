@@ -1,0 +1,331 @@
+{"ID": "stance_absa_annotation_8675", "Aspect_VA": [{"Aspect": "atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9292", "Aspect_VA": [{"Aspect": "obi", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_8631", "Aspect_VA": [{"Aspect": "asiwaju", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_8220", "Aspect_VA": [{"Aspect": "we", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_7949", "Aspect_VA": [{"Aspect": "this election", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_7919", "Aspect_VA": [{"Aspect": "him", "VA": "7.30#5.80"}]}
+{"ID": "stance_absa_annotation_8229", "Aspect_VA": [{"Aspect": "apc", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_7801", "Aspect_VA": [{"Aspect": "this man", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9301", "Aspect_VA": [{"Aspect": "this", "VA": "1.83#6.30"}]}
+{"ID": "stance_absa_annotation_7984", "Aspect_VA": [{"Aspect": "@officialABAT", "VA": "6.70#4.80"}]}
+{"ID": "stance_absa_annotation_8148", "Aspect_VA": [{"Aspect": "@inecnigeria", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9392", "Aspect_VA": [{"Aspect": "tinubu", "VA": "2.47#6.00"}, {"Aspect": "kwankwaso", "VA": "7.20#4.80"}]}
+{"ID": "stance_absa_annotation_7683", "Aspect_VA": [{"Aspect": "the election", "VA": "2.37#6.40"}, {"Aspect": "@PeterObi", "VA": "7.23#6.40"}]}
+{"ID": "stance_absa_annotation_9354", "Aspect_VA": [{"Aspect": "people", "VA": "2.30#6.40"}]}
+{"ID": "stance_absa_annotation_8332", "Aspect_VA": [{"Aspect": "kwankwaso", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_8224", "Aspect_VA": [{"Aspect": "they", "VA": "2.03#6.47"}]}
+{"ID": "stance_absa_annotation_7758", "Aspect_VA": [{"Aspect": "Atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_7715", "Aspect_VA": [{"Aspect": "Tinubu", "VA": "2.37#6.80"}]}
+{"ID": "stance_absa_annotation_7939", "Aspect_VA": [{"Aspect": "@PeterObi", "VA": "7.23#5.40"}]}
+{"ID": "stance_absa_annotation_8632", "Aspect_VA": [{"Aspect": "he", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_9228", "Aspect_VA": [{"Aspect": "you", "VA": "2.37#6.00"}]}
+{"ID": "stance_absa_annotation_8350", "Aspect_VA": [{"Aspect": "@atiku", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_9523", "Aspect_VA": [{"Aspect": "@peterobi", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_8950", "Aspect_VA": [{"Aspect": "election", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_9563", "Aspect_VA": [{"Aspect": "inec", "VA": "1.70#6.80"}, {"Aspect": "mahmoud yakubu", "VA": "1.70#6.80"}]}
+{"ID": "stance_absa_annotation_8460", "Aspect_VA": [{"Aspect": "nigerians", "VA": "2.37#6.40"}, {"Aspect": "leadership", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8597", "Aspect_VA": [{"Aspect": "peterobi", "VA": "7.23#5.40"}]}
+{"ID": "stance_absa_annotation_8421", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "6.83#4.80"}]}
+{"ID": "stance_absa_annotation_8615", "Aspect_VA": [{"Aspect": "peter obi", "VA": "7.40#5.60"}]}
+{"ID": "stance_absa_annotation_7674", "Aspect_VA": [{"Aspect": "Peter Obi", "VA": "2.37#6.80"}]}
+{"ID": "stance_absa_annotation_9074", "Aspect_VA": [{"Aspect": "nigeria", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9459", "Aspect_VA": [{"Aspect": "man", "VA": "1.73#6.80"}]}
+{"ID": "stance_absa_annotation_7829", "Aspect_VA": [{"Aspect": "Kwankwaso", "VA": "6.83#5.70"}]}
+{"ID": "stance_absa_annotation_8070", "Aspect_VA": [{"Aspect": "atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9397", "Aspect_VA": [{"Aspect": "obi", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_8478", "Aspect_VA": [{"Aspect": "asiwaju", "VA": "7.30#4.80"}]}
+{"ID": "stance_absa_annotation_7746", "Aspect_VA": [{"Aspect": "this election", "VA": "6.73#4.80"}]}
+{"ID": "stance_absa_annotation_8408", "Aspect_VA": [{"Aspect": "apc", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_9077", "Aspect_VA": [{"Aspect": "this", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8050", "Aspect_VA": [{"Aspect": "@inecnigeria", "VA": "1.73#6.80"}]}
+{"ID": "stance_absa_annotation_8966", "Aspect_VA": [{"Aspect": "tinubu", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8873", "Aspect_VA": [{"Aspect": "the election", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9421", "Aspect_VA": [{"Aspect": "people", "VA": "2.37#6.00"}]}
+{"ID": "stance_absa_annotation_7677", "Aspect_VA": [{"Aspect": "kwankwaso", "VA": "7.83#6.47"}]}
+{"ID": "stance_absa_annotation_8972", "Aspect_VA": [{"Aspect": "they", "VA": "1.70#6.80"}]}
+{"ID": "stance_absa_annotation_7769", "Aspect_VA": [{"Aspect": "Atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_7808", "Aspect_VA": [{"Aspect": "Tinubu", "VA": "7.20#5.63"}]}
+{"ID": "stance_absa_annotation_7691", "Aspect_VA": [{"Aspect": "@PeterObi", "VA": "7.63#5.80"}]}
+{"ID": "stance_absa_annotation_8590", "Aspect_VA": [{"Aspect": "he", "VA": "6.87#4.80"}]}
+{"ID": "stance_absa_annotation_8119", "Aspect_VA": [{"Aspect": "you", "VA": "2.30#6.40"}]}
+{"ID": "stance_absa_annotation_7779", "Aspect_VA": [{"Aspect": "@atiku", "VA": "1.70#6.80"}, {"Aspect": "Atiku", "VA": "1.78#6.40"}]}
+{"ID": "stance_absa_annotation_7854", "Aspect_VA": [{"Aspect": "@peterobi", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8243", "Aspect_VA": [{"Aspect": "election", "VA": "1.78#6.40"}]}
+{"ID": "stance_absa_annotation_9008", "Aspect_VA": [{"Aspect": "inec", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9347", "Aspect_VA": [{"Aspect": "peterobi", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_9271", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "7.23#4.60"}]}
+{"ID": "stance_absa_annotation_8176", "Aspect_VA": [{"Aspect": "peter obi", "VA": "7.23#5.60"}]}
+{"ID": "stance_absa_annotation_7870", "Aspect_VA": [{"Aspect": "Peter Obi", "VA": "2.20#6.00"}, {"Aspect": "He", "VA": "2.20#5.80"}]}
+{"ID": "stance_absa_annotation_9181", "Aspect_VA": [{"Aspect": "nigeria", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_7701", "Aspect_VA": [{"Aspect": "Kwankwaso", "VA": "7.62#6.48"}]}
+{"ID": "stance_absa_annotation_9151", "Aspect_VA": [{"Aspect": "atiku", "VA": "7.23#5.60"}]}
+{"ID": "stance_absa_annotation_8526", "Aspect_VA": [{"Aspect": "obi", "VA": "7.23#5.60"}]}
+{"ID": "stance_absa_annotation_8503", "Aspect_VA": [{"Aspect": "this election", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_8774", "Aspect_VA": [{"Aspect": "apc", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8790", "Aspect_VA": [{"Aspect": "this", "VA": "1.70#6.80"}]}
+{"ID": "stance_absa_annotation_8314", "Aspect_VA": [{"Aspect": "@inecnigeria", "VA": "7.20#4.83"}]}
+{"ID": "stance_absa_annotation_8523", "Aspect_VA": [{"Aspect": "tinubu", "VA": "2.47#6.30"}]}
+{"ID": "stance_absa_annotation_8936", "Aspect_VA": [{"Aspect": "people", "VA": "3.47#5.60"}]}
+{"ID": "stance_absa_annotation_8286", "Aspect_VA": [{"Aspect": "kwankwaso", "VA": "7.60#5.80"}]}
+{"ID": "stance_absa_annotation_7843", "Aspect_VA": [{"Aspect": "they", "VA": "2.47#6.00"}, {"Aspect": "Obi", "VA": "7.40#6.00"}]}
+{"ID": "stance_absa_annotation_7814", "Aspect_VA": [{"Aspect": "Atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_7857", "Aspect_VA": [{"Aspect": "Tinubu", "VA": "2.37#6.80"}]}
+{"ID": "stance_absa_annotation_7907", "Aspect_VA": [{"Aspect": "@PeterObi", "VA": "7.30#6.20"}, {"Aspect": "our mandate", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_9013", "Aspect_VA": [{"Aspect": "he", "VA": "2.30#6.00"}]}
+{"ID": "stance_absa_annotation_8673", "Aspect_VA": [{"Aspect": "you", "VA": "2.07#6.30"}]}
+{"ID": "stance_absa_annotation_9498", "Aspect_VA": [{"Aspect": "@atiku", "VA": "7.30#5.60"}]}
+{"ID": "stance_absa_annotation_8614", "Aspect_VA": [{"Aspect": "@peterobi", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_9500", "Aspect_VA": [{"Aspect": "election", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_9071", "Aspect_VA": [{"Aspect": "inec", "VA": "1.78#6.40"}]}
+{"ID": "stance_absa_annotation_8341", "Aspect_VA": [{"Aspect": "peterobi", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_8249", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "7.30#5.60"}]}
+{"ID": "stance_absa_annotation_8599", "Aspect_VA": [{"Aspect": "peter obi", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_7799", "Aspect_VA": [{"Aspect": "Peter Obi", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_9250", "Aspect_VA": [{"Aspect": "nigeria", "VA": "6.87#4.80"}]}
+{"ID": "stance_absa_annotation_9192", "Aspect_VA": [{"Aspect": "atiku", "VA": "7.20#6.30"}]}
+{"ID": "stance_absa_annotation_8811", "Aspect_VA": [{"Aspect": "obi", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_7971", "Aspect_VA": [{"Aspect": "this election", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9526", "Aspect_VA": [{"Aspect": "apc", "VA": "1.70#6.80"}]}
+{"ID": "stance_absa_annotation_8109", "Aspect_VA": [{"Aspect": "this", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8719", "Aspect_VA": [{"Aspect": "@inecnigeria", "VA": "1.70#6.80"}]}
+{"ID": "stance_absa_annotation_9090", "Aspect_VA": [{"Aspect": "tinubu", "VA": "7.30#6.20"}]}
+{"ID": "stance_absa_annotation_9081", "Aspect_VA": [{"Aspect": "kwankwaso", "VA": "7.60#5.80"}]}
+{"ID": "stance_absa_annotation_7999", "Aspect_VA": [{"Aspect": "Atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_7689", "Aspect_VA": [{"Aspect": "Tinubu", "VA": "2.03#6.47"}]}
+{"ID": "stance_absa_annotation_8017", "Aspect_VA": [{"Aspect": "@PeterObi", "VA": "7.40#5.80"}]}
+{"ID": "stance_absa_annotation_9527", "Aspect_VA": [{"Aspect": "he", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9118", "Aspect_VA": [{"Aspect": "you", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8334", "Aspect_VA": [{"Aspect": "@atiku", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_8788", "Aspect_VA": [{"Aspect": "@peterobi", "VA": "7.23#5.40"}]}
+{"ID": "stance_absa_annotation_8703", "Aspect_VA": [{"Aspect": "election", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9034", "Aspect_VA": [{"Aspect": "inec", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9266", "Aspect_VA": [{"Aspect": "peterobi", "VA": "7.30#4.80"}]}
+{"ID": "stance_absa_annotation_9552", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8099", "Aspect_VA": [{"Aspect": "peter obi", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_7735", "Aspect_VA": [{"Aspect": "Peter Obi", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_8937", "Aspect_VA": [{"Aspect": "nigeria", "VA": "6.73#4.80"}]}
+{"ID": "stance_absa_annotation_9558", "Aspect_VA": [{"Aspect": "atiku", "VA": "1.80#6.60"}]}
+{"ID": "stance_absa_annotation_8766", "Aspect_VA": [{"Aspect": "obi", "VA": "7.30#6.20"}]}
+{"ID": "stance_absa_annotation_8816", "Aspect_VA": [{"Aspect": "this election", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8382", "Aspect_VA": [{"Aspect": "apc", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9413", "Aspect_VA": [{"Aspect": "this", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_7851", "Aspect_VA": [{"Aspect": "@inecnigeria", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8420", "Aspect_VA": [{"Aspect": "tinubu", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9380", "Aspect_VA": [{"Aspect": "kwankwaso", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_7707", "Aspect_VA": [{"Aspect": "Atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_7978", "Aspect_VA": [{"Aspect": "Tinubu", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_7909", "Aspect_VA": [{"Aspect": "@PeterObi", "VA": "6.73#4.80"}]}
+{"ID": "stance_absa_annotation_9030", "Aspect_VA": [{"Aspect": "he", "VA": "6.73#4.80"}]}
+{"ID": "stance_absa_annotation_7891", "Aspect_VA": [{"Aspect": "you", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_7869", "Aspect_VA": [{"Aspect": "@atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9185", "Aspect_VA": [{"Aspect": "@peterobi", "VA": "7.23#5.40"}]}
+{"ID": "stance_absa_annotation_8410", "Aspect_VA": [{"Aspect": "election", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8459", "Aspect_VA": [{"Aspect": "inec", "VA": "1.78#6.40"}]}
+{"ID": "stance_absa_annotation_8709", "Aspect_VA": [{"Aspect": "peterobi", "VA": "7.30#5.60"}]}
+{"ID": "stance_absa_annotation_8899", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8146", "Aspect_VA": [{"Aspect": "peter obi", "VA": "7.40#5.60"}]}
+{"ID": "stance_absa_annotation_7871", "Aspect_VA": [{"Aspect": "Peter Obi", "VA": "6.87#4.90"}]}
+{"ID": "stance_absa_annotation_9336", "Aspect_VA": [{"Aspect": "nigeria", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_9432", "Aspect_VA": [{"Aspect": "atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8953", "Aspect_VA": [{"Aspect": "obi", "VA": "7.40#6.00"}]}
+{"ID": "stance_absa_annotation_8497", "Aspect_VA": [{"Aspect": "this election", "VA": "1.78#6.40"}]}
+{"ID": "stance_absa_annotation_9146", "Aspect_VA": [{"Aspect": "apc", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9457", "Aspect_VA": [{"Aspect": "this", "VA": "1.73#6.80"}]}
+{"ID": "stance_absa_annotation_8477", "Aspect_VA": [{"Aspect": "@inecnigeria", "VA": "2.37#6.40"}, {"Aspect": "nigerian youths", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9566", "Aspect_VA": [{"Aspect": "tinubu", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9369", "Aspect_VA": [{"Aspect": "kwankwaso", "VA": "7.30#6.20"}]}
+{"ID": "stance_absa_annotation_8025", "Aspect_VA": [{"Aspect": "Atiku", "VA": "7.20#5.60"}]}
+{"ID": "stance_absa_annotation_8012", "Aspect_VA": [{"Aspect": "Tinubu", "VA": "6.70#4.80"}]}
+{"ID": "stance_absa_annotation_7777", "Aspect_VA": [{"Aspect": "@PeterObi", "VA": "2.07#6.80"}]}
+{"ID": "stance_absa_annotation_8731", "Aspect_VA": [{"Aspect": "he", "VA": "2.67#5.80"}]}
+{"ID": "stance_absa_annotation_7710", "Aspect_VA": [{"Aspect": "you", "VA": "1.73#6.80"}]}
+{"ID": "stance_absa_annotation_9383", "Aspect_VA": [{"Aspect": "@atiku", "VA": "2.03#6.40"}]}
+{"ID": "stance_absa_annotation_8474", "Aspect_VA": [{"Aspect": "@peterobi", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_8910", "Aspect_VA": [{"Aspect": "election", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9575", "Aspect_VA": [{"Aspect": "inec", "VA": "2.47#6.00"}]}
+{"ID": "stance_absa_annotation_8686", "Aspect_VA": [{"Aspect": "peterobi", "VA": "7.23#5.60"}]}
+{"ID": "stance_absa_annotation_8469", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "2.03#6.47"}]}
+{"ID": "stance_absa_annotation_8768", "Aspect_VA": [{"Aspect": "peter obi", "VA": "7.60#5.80"}]}
+{"ID": "stance_absa_annotation_7980", "Aspect_VA": [{"Aspect": "Peter Obi", "VA": "7.23#5.60"}]}
+{"ID": "stance_absa_annotation_8426", "Aspect_VA": [{"Aspect": "nigeria", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9257", "Aspect_VA": [{"Aspect": "atiku", "VA": "2.30#6.40"}]}
+{"ID": "stance_absa_annotation_8098", "Aspect_VA": [{"Aspect": "obi", "VA": "7.60#5.80"}]}
+{"ID": "stance_absa_annotation_8791", "Aspect_VA": [{"Aspect": "apc", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9281", "Aspect_VA": [{"Aspect": "this", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9415", "Aspect_VA": [{"Aspect": "@inecnigeria", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8729", "Aspect_VA": [{"Aspect": "tinubu", "VA": "2.03#6.47"}]}
+{"ID": "stance_absa_annotation_7708", "Aspect_VA": [{"Aspect": "kwankwaso", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_7858", "Aspect_VA": [{"Aspect": "Atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_7680", "Aspect_VA": [{"Aspect": "Tinubu", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9261", "Aspect_VA": [{"Aspect": "he", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9477", "Aspect_VA": [{"Aspect": "you", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8649", "Aspect_VA": [{"Aspect": "@atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8652", "Aspect_VA": [{"Aspect": "@peterobi", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_9304", "Aspect_VA": [{"Aspect": "election", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8398", "Aspect_VA": [{"Aspect": "inec", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9506", "Aspect_VA": [{"Aspect": "peterobi", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_9277", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "2.37#6.40"}, {"Aspect": "@inecnigeria", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9447", "Aspect_VA": [{"Aspect": "peter obi", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9099", "Aspect_VA": [{"Aspect": "nigeria", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8695", "Aspect_VA": [{"Aspect": "atiku", "VA": "7.60#5.80"}]}
+{"ID": "stance_absa_annotation_9056", "Aspect_VA": [{"Aspect": "apc", "VA": "1.78#6.40"}]}
+{"ID": "stance_absa_annotation_8757", "Aspect_VA": [{"Aspect": "this", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8054", "Aspect_VA": [{"Aspect": "@inecnigeria", "VA": "2.60#5.80"}]}
+{"ID": "stance_absa_annotation_9492", "Aspect_VA": [{"Aspect": "tinubu", "VA": "2.37#6.40"}, {"Aspect": "buhari", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8954", "Aspect_VA": [{"Aspect": "kwankwaso", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9053", "Aspect_VA": [{"Aspect": "he", "VA": "1.73#6.80"}]}
+{"ID": "stance_absa_annotation_8124", "Aspect_VA": [{"Aspect": "you", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_8863", "Aspect_VA": [{"Aspect": "@atiku", "VA": "2.30#6.40"}]}
+{"ID": "stance_absa_annotation_8538", "Aspect_VA": [{"Aspect": "@peterobi", "VA": "7.23#5.40"}]}
+{"ID": "stance_absa_annotation_8894", "Aspect_VA": [{"Aspect": "election", "VA": "2.47#6.00"}]}
+{"ID": "stance_absa_annotation_8611", "Aspect_VA": [{"Aspect": "inec", "VA": "2.37#6.00"}]}
+{"ID": "stance_absa_annotation_8262", "Aspect_VA": [{"Aspect": "peterobi", "VA": "7.20#4.83"}]}
+{"ID": "stance_absa_annotation_9510", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "1.70#6.40"}]}
+{"ID": "stance_absa_annotation_8946", "Aspect_VA": [{"Aspect": "peter obi", "VA": "7.20#5.50"}]}
+{"ID": "stance_absa_annotation_9471", "Aspect_VA": [{"Aspect": "nigeria", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8345", "Aspect_VA": [{"Aspect": "atiku", "VA": "6.73#4.80"}]}
+{"ID": "stance_absa_annotation_8337", "Aspect_VA": [{"Aspect": "apc", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9168", "Aspect_VA": [{"Aspect": "this", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9116", "Aspect_VA": [{"Aspect": "@inecnigeria", "VA": "1.70#6.80"}]}
+{"ID": "stance_absa_annotation_8549", "Aspect_VA": [{"Aspect": "kwankwaso", "VA": "7.20#6.30"}]}
+{"ID": "stance_absa_annotation_8734", "Aspect_VA": [{"Aspect": "he", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9569", "Aspect_VA": [{"Aspect": "you", "VA": "1.73#6.80"}]}
+{"ID": "stance_absa_annotation_8040", "Aspect_VA": [{"Aspect": "@atiku", "VA": "7.30#6.20"}]}
+{"ID": "stance_absa_annotation_8107", "Aspect_VA": [{"Aspect": "@peterobi", "VA": "7.30#6.20"}]}
+{"ID": "stance_absa_annotation_8116", "Aspect_VA": [{"Aspect": "election", "VA": "2.37#6.00"}]}
+{"ID": "stance_absa_annotation_8892", "Aspect_VA": [{"Aspect": "inec", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9324", "Aspect_VA": [{"Aspect": "peterobi", "VA": "7.40#5.60"}]}
+{"ID": "stance_absa_annotation_8711", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "7.40#5.60"}]}
+{"ID": "stance_absa_annotation_9485", "Aspect_VA": [{"Aspect": "peter obi", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_8452", "Aspect_VA": [{"Aspect": "nigeria", "VA": "6.83#4.80"}]}
+{"ID": "stance_absa_annotation_9218", "Aspect_VA": [{"Aspect": "atiku", "VA": "7.23#5.60"}]}
+{"ID": "stance_absa_annotation_8090", "Aspect_VA": [{"Aspect": "apc", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8613", "Aspect_VA": [{"Aspect": "this", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8016", "Aspect_VA": [{"Aspect": "@inecnigeria", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8958", "Aspect_VA": [{"Aspect": "kwankwaso", "VA": "7.30#6.20"}]}
+{"ID": "stance_absa_annotation_8728", "Aspect_VA": [{"Aspect": "you", "VA": "2.03#6.47"}]}
+{"ID": "stance_absa_annotation_8556", "Aspect_VA": [{"Aspect": "@atiku", "VA": "2.37#5.80"}]}
+{"ID": "stance_absa_annotation_9101", "Aspect_VA": [{"Aspect": "@peterobi", "VA": "7.40#5.80"}]}
+{"ID": "stance_absa_annotation_9393", "Aspect_VA": [{"Aspect": "election", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_8786", "Aspect_VA": [{"Aspect": "inec", "VA": "1.70#6.80"}]}
+{"ID": "stance_absa_annotation_9518", "Aspect_VA": [{"Aspect": "peterobi", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8912", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "1.70#6.40"}]}
+{"ID": "stance_absa_annotation_8264", "Aspect_VA": [{"Aspect": "peter obi", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_8113", "Aspect_VA": [{"Aspect": "nigeria", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_9138", "Aspect_VA": [{"Aspect": "atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8313", "Aspect_VA": [{"Aspect": "apc", "VA": "2.47#6.00"}]}
+{"ID": "stance_absa_annotation_8364", "Aspect_VA": [{"Aspect": "@inecnigeria", "VA": "1.70#6.80"}]}
+{"ID": "stance_absa_annotation_9110", "Aspect_VA": [{"Aspect": "you", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_7684", "Aspect_VA": [{"Aspect": "@atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8290", "Aspect_VA": [{"Aspect": "@peterobi", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_8369", "Aspect_VA": [{"Aspect": "election", "VA": "2.47#6.00"}]}
+{"ID": "stance_absa_annotation_8692", "Aspect_VA": [{"Aspect": "inec", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8640", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "7.83#6.20"}]}
+{"ID": "stance_absa_annotation_8212", "Aspect_VA": [{"Aspect": "peter obi", "VA": "7.30#6.20"}]}
+{"ID": "stance_absa_annotation_9525", "Aspect_VA": [{"Aspect": "nigeria", "VA": "1.78#6.40"}]}
+{"ID": "stance_absa_annotation_9087", "Aspect_VA": [{"Aspect": "atiku", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_8182", "Aspect_VA": [{"Aspect": "apc", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9273", "Aspect_VA": [{"Aspect": "@inecnigeria", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9275", "Aspect_VA": [{"Aspect": "you", "VA": "2.03#6.47"}]}
+{"ID": "stance_absa_annotation_8068", "Aspect_VA": [{"Aspect": "@atiku", "VA": "6.40#4.80"}]}
+{"ID": "stance_absa_annotation_9175", "Aspect_VA": [{"Aspect": "@peterobi", "VA": "7.30#5.60"}]}
+{"ID": "stance_absa_annotation_8578", "Aspect_VA": [{"Aspect": "election", "VA": "6.83#4.80"}]}
+{"ID": "stance_absa_annotation_9048", "Aspect_VA": [{"Aspect": "inec", "VA": "1.70#6.80"}]}
+{"ID": "stance_absa_annotation_8783", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_8924", "Aspect_VA": [{"Aspect": "peter obi", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_9362", "Aspect_VA": [{"Aspect": "atiku", "VA": "7.40#5.60"}]}
+{"ID": "stance_absa_annotation_9157", "Aspect_VA": [{"Aspect": "apc", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9350", "Aspect_VA": [{"Aspect": "you", "VA": "7.30#4.80"}]}
+{"ID": "stance_absa_annotation_7998", "Aspect_VA": [{"Aspect": "@atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8091", "Aspect_VA": [{"Aspect": "@peterobi", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_7797", "Aspect_VA": [{"Aspect": "election", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_9072", "Aspect_VA": [{"Aspect": "inec", "VA": "1.78#6.40"}]}
+{"ID": "stance_absa_annotation_9256", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_8965", "Aspect_VA": [{"Aspect": "peter obi", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8699", "Aspect_VA": [{"Aspect": "atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8993", "Aspect_VA": [{"Aspect": "apc", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9241", "Aspect_VA": [{"Aspect": "you", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_7837", "Aspect_VA": [{"Aspect": "@atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8962", "Aspect_VA": [{"Aspect": "@peterobi", "VA": "7.23#5.60"}]}
+{"ID": "stance_absa_annotation_8571", "Aspect_VA": [{"Aspect": "election", "VA": "1.78#6.40"}]}
+{"ID": "stance_absa_annotation_8391", "Aspect_VA": [{"Aspect": "inec", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8920", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9387", "Aspect_VA": [{"Aspect": "peter obi", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_8713", "Aspect_VA": [{"Aspect": "apc", "VA": "2.37#6.00"}]}
+{"ID": "stance_absa_annotation_9055", "Aspect_VA": [{"Aspect": "you", "VA": "1.73#6.80"}]}
+{"ID": "stance_absa_annotation_8431", "Aspect_VA": [{"Aspect": "@atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8417", "Aspect_VA": [{"Aspect": "@peterobi", "VA": "7.23#5.40"}]}
+{"ID": "stance_absa_annotation_7977", "Aspect_VA": [{"Aspect": "election", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9191", "Aspect_VA": [{"Aspect": "inec", "VA": "1.40#7.30"}]}
+{"ID": "stance_absa_annotation_8973", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9318", "Aspect_VA": [{"Aspect": "peter obi", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8121", "Aspect_VA": [{"Aspect": "apc", "VA": "1.70#6.40"}]}
+{"ID": "stance_absa_annotation_8964", "Aspect_VA": [{"Aspect": "you", "VA": "2.03#6.47"}]}
+{"ID": "stance_absa_annotation_9463", "Aspect_VA": [{"Aspect": "@atiku", "VA": "7.23#6.40"}, {"Aspect": "atikuabubakar", "VA": "7.23#6.40"}]}
+{"ID": "stance_absa_annotation_8079", "Aspect_VA": [{"Aspect": "election", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8570", "Aspect_VA": [{"Aspect": "inec", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8758", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "7.23#5.60"}]}
+{"ID": "stance_absa_annotation_8829", "Aspect_VA": [{"Aspect": "peter obi", "VA": "7.30#5.80"}]}
+{"ID": "stance_absa_annotation_8278", "Aspect_VA": [{"Aspect": "apc", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8471", "Aspect_VA": [{"Aspect": "you", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9328", "Aspect_VA": [{"Aspect": "@atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_7751", "Aspect_VA": [{"Aspect": "election", "VA": "1.83#6.40"}]}
+{"ID": "stance_absa_annotation_8736", "Aspect_VA": [{"Aspect": "inec", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9464", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "1.73#6.80"}]}
+{"ID": "stance_absa_annotation_8992", "Aspect_VA": [{"Aspect": "peter obi", "VA": "7.23#6.40"}]}
+{"ID": "stance_absa_annotation_8355", "Aspect_VA": [{"Aspect": "you", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_7750", "Aspect_VA": [{"Aspect": "@atiku", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8465", "Aspect_VA": [{"Aspect": "election", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_7961", "Aspect_VA": [{"Aspect": "inec", "VA": "2.03#6.47"}]}
+{"ID": "stance_absa_annotation_8781", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "7.30#6.20"}]}
+{"ID": "stance_absa_annotation_8666", "Aspect_VA": [{"Aspect": "you", "VA": "2.03#6.47"}]}
+{"ID": "stance_absa_annotation_8815", "Aspect_VA": [{"Aspect": "@atiku", "VA": "2.30#6.40"}]}
+{"ID": "stance_absa_annotation_8744", "Aspect_VA": [{"Aspect": "election", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8677", "Aspect_VA": [{"Aspect": "inec", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9031", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9326", "Aspect_VA": [{"Aspect": "you", "VA": "2.03#6.47"}]}
+{"ID": "stance_absa_annotation_7782", "Aspect_VA": [{"Aspect": "@atiku", "VA": "6.83#4.80"}]}
+{"ID": "stance_absa_annotation_9366", "Aspect_VA": [{"Aspect": "election", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8722", "Aspect_VA": [{"Aspect": "inec", "VA": "1.70#6.80"}]}
+{"ID": "stance_absa_annotation_8918", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_8189", "Aspect_VA": [{"Aspect": "you", "VA": "2.03#6.47"}]}
+{"ID": "stance_absa_annotation_7736", "Aspect_VA": [{"Aspect": "@atiku", "VA": "7.20#4.83"}]}
+{"ID": "stance_absa_annotation_8730", "Aspect_VA": [{"Aspect": "election", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9482", "Aspect_VA": [{"Aspect": "inec", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8152", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_7981", "Aspect_VA": [{"Aspect": "you", "VA": "2.07#6.40"}]}
+{"ID": "stance_absa_annotation_7747", "Aspect_VA": [{"Aspect": "@atiku", "VA": "7.23#5.60"}]}
+{"ID": "stance_absa_annotation_8836", "Aspect_VA": [{"Aspect": "election", "VA": "6.73#4.80"}]}
+{"ID": "stance_absa_annotation_8161", "Aspect_VA": [{"Aspect": "inec", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9097", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9128", "Aspect_VA": [{"Aspect": "you", "VA": "7.30#4.80"}]}
+{"ID": "stance_absa_annotation_8049", "Aspect_VA": [{"Aspect": "@atiku", "VA": "7.62#5.80"}]}
+{"ID": "stance_absa_annotation_8217", "Aspect_VA": [{"Aspect": "inec", "VA": "2.47#6.00"}]}
+{"ID": "stance_absa_annotation_8646", "Aspect_VA": [{"Aspect": "@officialabat", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_8623", "Aspect_VA": [{"Aspect": "you", "VA": "2.03#6.47"}]}
+{"ID": "stance_absa_annotation_9317", "Aspect_VA": [{"Aspect": "inec", "VA": "1.78#6.40"}]}
+{"ID": "stance_absa_annotation_9495", "Aspect_VA": [{"Aspect": "you", "VA": "7.23#4.80"}]}
+{"ID": "stance_absa_annotation_8193", "Aspect_VA": [{"Aspect": "inec", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8943", "Aspect_VA": [{"Aspect": "you", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_8821", "Aspect_VA": [{"Aspect": "inec", "VA": "2.47#6.00"}]}
+{"ID": "stance_absa_annotation_8664", "Aspect_VA": [{"Aspect": "you", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8226", "Aspect_VA": [{"Aspect": "inec", "VA": "1.78#6.40"}]}
+{"ID": "stance_absa_annotation_9045", "Aspect_VA": [{"Aspect": "you", "VA": "1.73#6.40"}]}
+{"ID": "stance_absa_annotation_8637", "Aspect_VA": [{"Aspect": "inec", "VA": "1.70#6.80"}]}
+{"ID": "stance_absa_annotation_8693", "Aspect_VA": [{"Aspect": "you", "VA": "2.30#6.40"}]}
+{"ID": "stance_absa_annotation_8581", "Aspect_VA": [{"Aspect": "inec", "VA": "1.78#6.40"}]}
+{"ID": "stance_absa_annotation_9551", "Aspect_VA": [{"Aspect": "you", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8159", "Aspect_VA": [{"Aspect": "inec", "VA": "1.78#6.40"}]}
+{"ID": "stance_absa_annotation_8434", "Aspect_VA": [{"Aspect": "you", "VA": "1.67#6.83"}]}
+{"ID": "stance_absa_annotation_8298", "Aspect_VA": [{"Aspect": "inec", "VA": "1.78#6.40"}]}
+{"ID": "stance_absa_annotation_8269", "Aspect_VA": [{"Aspect": "you", "VA": "1.73#6.40"}]}
+{"ID": "stance_absa_annotation_9220", "Aspect_VA": [{"Aspect": "you", "VA": "2.03#6.47"}]}
+{"ID": "stance_absa_annotation_9039", "Aspect_VA": [{"Aspect": "you", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8866", "Aspect_VA": [{"Aspect": "you", "VA": "2.03#6.47"}]}
+{"ID": "stance_absa_annotation_8564", "Aspect_VA": [{"Aspect": "you", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_9152", "Aspect_VA": [{"Aspect": "you", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_9418", "Aspect_VA": [{"Aspect": "you", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8850", "Aspect_VA": [{"Aspect": "you", "VA": "2.03#6.47"}]}
+{"ID": "stance_absa_annotation_8732", "Aspect_VA": [{"Aspect": "you", "VA": "6.83#4.70"}]}
+{"ID": "stance_absa_annotation_7991", "Aspect_VA": [{"Aspect": "you", "VA": "2.37#6.40"}]}
+{"ID": "stance_absa_annotation_8370", "Aspect_VA": [{"Aspect": "you", "VA": "2.37#6.40"}]}

@@ -1,0 +1,3069 @@
+[
+  {
+    "ID": "wahlomat_trip_919_211943487",
+    "Aspect_VA": [
+      {
+        "Aspect": "Kulturschaffende",
+        "VA": "2.40#7.30"
+      },
+      {
+        "Aspect": "Ausgleich",
+        "VA": "3.20#6.40"
+      },
+      {
+        "Aspect": "Kultur",
+        "VA": "7.40#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_515_211942932",
+    "Aspect_VA": [
+      {
+        "Aspect": "soziale Härten",
+        "VA": "2.40#7.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_489_211942896",
+    "Aspect_VA": [
+      {
+        "Aspect": "Hasskriminalität",
+        "VA": "2.60#6.30"
+      },
+      {
+        "Aspect": "Behörden",
+        "VA": "6.20#3.80"
+      },
+      {
+        "Aspect": "Gesetze",
+        "VA": "6.20#4.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_991_211943588",
+    "Aspect_VA": [
+      {
+        "Aspect": "Ziel",
+        "VA": "3.20#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_795_211943306",
+    "Aspect_VA": [
+      {
+        "Aspect": "Fachkräfte",
+        "VA": "4.80#3.60"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_59_211942265",
+    "Aspect_VA": [
+      {
+        "Aspect": "Militärische Forschung",
+        "VA": "4.60#3.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_322_211942657",
+    "Aspect_VA": [
+      {
+        "Aspect": "Arbeitnehmer",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_815_211943335",
+    "Aspect_VA": [
+      {
+        "Aspect": "Asylverfahren",
+        "VA": "6.80#5.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_556_211942988",
+    "Aspect_VA": [
+      {
+        "Aspect": "Unterkünfte",
+        "VA": "6.80#5.30"
+      },
+      {
+        "Aspect": "Privatsphäre",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_754_211943254",
+    "Aspect_VA": [
+      {
+        "Aspect": "Diskussion",
+        "VA": "6.30#4.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_594_211943036",
+    "Aspect_VA": [
+      {
+        "Aspect": "Angebote",
+        "VA": "6.70#4.80"
+      },
+      {
+        "Aspect": "Verbote",
+        "VA": "2.30#7.40"
+      },
+      {
+        "Aspect": "physische Hindernisse",
+        "VA": "2.30#7.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_223_211942518",
+    "Aspect_VA": [
+      {
+        "Aspect": "Sicherheitsgefühl",
+        "VA": "7.40#6.20"
+      },
+      {
+        "Aspect": "Tempo 30",
+        "VA": "6.80#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_304_211942632",
+    "Aspect_VA": [
+      {
+        "Aspect": "Kommunen",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_808_211943327",
+    "Aspect_VA": [
+      {
+        "Aspect": "Windkraft",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Anlagen",
+        "VA": "6.40#3.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_159_211942416",
+    "Aspect_VA": [
+      {
+        "Aspect": "Kontrollen",
+        "VA": "3.60#6.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_499_211942911",
+    "Aspect_VA": [
+      {
+        "Aspect": "Menschenleben",
+        "VA": "8.20#7.60"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1010_211943616",
+    "Aspect_VA": [
+      {
+        "Aspect": "Junge Menschen",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Wahlrecht",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_678_211943159",
+    "Aspect_VA": [
+      {
+        "Aspect": "Anbindung",
+        "VA": "6.80#5.20"
+      },
+      {
+        "Aspect": "Verbindungen",
+        "VA": "6.70#4.80"
+      },
+      {
+        "Aspect": "Flughafen",
+        "VA": "7.40#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1041_211943657",
+    "Aspect_VA": [
+      {
+        "Aspect": "Verteidigungspolitik",
+        "VA": "6.80#5.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_714_211943205",
+    "Aspect_VA": [
+      {
+        "Aspect": "Quoten",
+        "VA": "6.40#4.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_293_211942615",
+    "Aspect_VA": [
+      {
+        "Aspect": "Digitalisierung",
+        "VA": "6.80#5.20"
+      },
+      {
+        "Aspect": "Regelungen",
+        "VA": "6.70#4.80"
+      },
+      {
+        "Aspect": "Arbeitszeitregeln",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_466_211942859",
+    "Aspect_VA": [
+      {
+        "Aspect": "Umwelt",
+        "VA": "6.80#5.30"
+      },
+      {
+        "Aspect": "Angebote",
+        "VA": "6.70#4.80"
+      },
+      {
+        "Aspect": "Nahverkehr",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_887_211943440",
+    "Aspect_VA": [
+      {
+        "Aspect": "Startchancen",
+        "VA": "6.80#5.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_400_211942769",
+    "Aspect_VA": [
+      {
+        "Aspect": "Politik",
+        "VA": "6.70#4.80"
+      },
+      {
+        "Aspect": "Wahllisten",
+        "VA": "6.80#5.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_3_211942188",
+    "Aspect_VA": [
+      {
+        "Aspect": "Kriminalitätsbekämpfung",
+        "VA": "6.80#5.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_389_211942747",
+    "Aspect_VA": [
+      {
+        "Aspect": "DLW",
+        "VA": "6.80#5.20"
+      },
+      {
+        "Aspect": "Demokratie",
+        "VA": "7.60#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_169_211942432",
+    "Aspect_VA": [
+      {
+        "Aspect": "Lösungen",
+        "VA": "6.70#4.80"
+      },
+      {
+        "Aspect": "Verteilung",
+        "VA": "6.80#5.20"
+      },
+      {
+        "Aspect": "Grenzschließungen",
+        "VA": "2.40#6.80"
+      },
+      {
+        "Aspect": "Grundrecht auf Asyl",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_853_211943396",
+    "Aspect_VA": [
+      {
+        "Aspect": "Quote",
+        "VA": "6.30#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1018_211943626",
+    "Aspect_VA": [
+      {
+        "Aspect": "Wege",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_219_211942513",
+    "Aspect_VA": [
+      {
+        "Aspect": "Projekte",
+        "VA": "2.30#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_493_211942903",
+    "Aspect_VA": [
+      {
+        "Aspect": "Vertiefung der Außenems",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Umwelt",
+        "VA": "6.20#4.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_843_211943376",
+    "Aspect_VA": [
+      {
+        "Aspect": "Flächenversiegelung",
+        "VA": "2.40#7.30"
+      },
+      {
+        "Aspect": "Klima",
+        "VA": "3.20#6.40"
+      },
+      {
+        "Aspect": "Biodiversität",
+        "VA": "2.80#6.30"
+      },
+      {
+        "Aspect": "Gesundheit",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_831_211943358",
+    "Aspect_VA": [
+      {
+        "Aspect": "Hafen",
+        "VA": "7.30#6.20"
+      },
+      {
+        "Aspect": "Modernisierung",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_171_211942434",
+    "Aspect_VA": [
+      {
+        "Aspect": "medizinische Versorgung",
+        "VA": "2.80#6.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_243_211942544",
+    "Aspect_VA": [
+      {
+        "Aspect": "Kontrollen",
+        "VA": "7.30#6.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_772_211943281",
+    "Aspect_VA": [
+      {
+        "Aspect": "Integration",
+        "VA": "6.80#5.70"
+      },
+      {
+        "Aspect": "Rahmenbedingungen",
+        "VA": "6.40#4.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_96_211942330",
+    "Aspect_VA": [
+      {
+        "Aspect": "Kommunen",
+        "VA": "6.30#4.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_554_211942985",
+    "Aspect_VA": [
+      {
+        "Aspect": "Quotenregelungen",
+        "VA": "2.40#7.30"
+      },
+      {
+        "Aspect": "Diskriminierung",
+        "VA": "2.40#7.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_668_211943145",
+    "Aspect_VA": [
+      {
+        "Aspect": "Photovoltaik",
+        "VA": "6.80#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1092_211943741",
+    "Aspect_VA": [
+      {
+        "Aspect": "Ukraine",
+        "VA": "7.60#7.20"
+      },
+      {
+        "Aspect": "Bundesregierung",
+        "VA": "6.80#5.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_816_211943337",
+    "Aspect_VA": [
+      {
+        "Aspect": "Gentechnik",
+        "VA": "6.30#4.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1091_211943739",
+    "Aspect_VA": [
+      {
+        "Aspect": "Spenden",
+        "VA": "6.70#4.80"
+      },
+      {
+        "Aspect": "Hilfsangebote",
+        "VA": "6.80#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_454_211942843",
+    "Aspect_VA": [
+      {
+        "Aspect": "Lösungen",
+        "VA": "6.80#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_474_211942872",
+    "Aspect_VA": [
+      {
+        "Aspect": "Kompetenz",
+        "VA": "6.80#5.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_188_211942457",
+    "Aspect_VA": [
+      {
+        "Aspect": "Klimaschutz",
+        "VA": "7.40#6.30"
+      },
+      {
+        "Aspect": "Klimaneutralität",
+        "VA": "7.30#6.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_971_211943563",
+    "Aspect_VA": [
+      {
+        "Aspect": "Schuldenbremse",
+        "VA": "2.40#6.80"
+      },
+      {
+        "Aspect": "Investitionen",
+        "VA": "6.80#6.20"
+      },
+      {
+        "Aspect": "Schulden",
+        "VA": "4.80#3.60"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_144_211942401",
+    "Aspect_VA": [
+      {
+        "Aspect": "Verfassungsschutz",
+        "VA": "2.30#7.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_460_211942849",
+    "Aspect_VA": [
+      {
+        "Aspect": "Kontrollen",
+        "VA": "7.60#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_954_211943539",
+    "Aspect_VA": [
+      {
+        "Aspect": "Ukraine",
+        "VA": "7.80#7.40"
+      },
+      {
+        "Aspect": "Waffenlieferungen",
+        "VA": "7.30#6.40"
+      },
+      {
+        "Aspect": "Demokratie",
+        "VA": "7.80#7.40"
+      },
+      {
+        "Aspect": "Menschenrechte",
+        "VA": "7.80#7.40"
+      },
+      {
+        "Aspect": "Russland",
+        "VA": "2.30#7.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_830_211943357",
+    "Aspect_VA": [
+      {
+        "Aspect": "medizinische Versorgung",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Situation",
+        "VA": "6.80#4.70"
+      },
+      {
+        "Aspect": "Mittel",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_112_211942352",
+    "Aspect_VA": [
+      {
+        "Aspect": "Programmauftrag",
+        "VA": "6.20#3.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_348_211942691",
+    "Aspect_VA": [
+      {
+        "Aspect": "Wiedervernässung",
+        "VA": "4.80#6.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_413_211942789",
+    "Aspect_VA": [
+      {
+        "Aspect": "Verteidigung",
+        "VA": "7.30#6.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_63_211942276",
+    "Aspect_VA": [
+      {
+        "Aspect": "Bremer Häfen",
+        "VA": "6.80#5.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_670_211943148",
+    "Aspect_VA": [
+      {
+        "Aspect": "Verkehrsträger",
+        "VA": "6.20#4.30"
+      },
+      {
+        "Aspect": "Verkehrswende",
+        "VA": "2.40#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_747_211943246",
+    "Aspect_VA": [
+      {
+        "Aspect": "Unternehmen",
+        "VA": "4.80#3.60"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_479_211942880",
+    "Aspect_VA": [
+      {
+        "Aspect": "fachliche Eignung",
+        "VA": "6.80#5.20"
+      },
+      {
+        "Aspect": "Geschlecht",
+        "VA": "3.60#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_884_211943437",
+    "Aspect_VA": [
+      {
+        "Aspect": "Kinderbetreuung",
+        "VA": "6.80#5.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_363_211942711",
+    "Aspect_VA": [
+      {
+        "Aspect": "Forderung",
+        "VA": "2.40#6.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_442_211942825",
+    "Aspect_VA": [
+      {
+        "Aspect": "Landwirtschaft",
+        "VA": "3.80#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_675_211943156",
+    "Aspect_VA": [
+      {
+        "Aspect": "Nachtflugverbot",
+        "VA": "6.30#4.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_100_211942334",
+    "Aspect_VA": [
+      {
+        "Aspect": "Existenzrecht Israels",
+        "VA": "7.40#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_97_211942331",
+    "Aspect_VA": [
+      {
+        "Aspect": "Kredite",
+        "VA": "6.80#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_195_211942468",
+    "Aspect_VA": [
+      {
+        "Aspect": "Wirtschaft",
+        "VA": "6.80#5.30"
+      },
+      {
+        "Aspect": "Klimaschutz",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_417_211942793",
+    "Aspect_VA": [
+      {
+        "Aspect": "Leben",
+        "VA": "7.80#7.40"
+      },
+      {
+        "Aspect": "Lasten",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1011_211943617",
+    "Aspect_VA": [
+      {
+        "Aspect": "Bremer Hauptbahnhof",
+        "VA": "2.40#7.60"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_804_211943320",
+    "Aspect_VA": [
+      {
+        "Aspect": "dies",
+        "VA": "6.30#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_585_211943027",
+    "Aspect_VA": [
+      {
+        "Aspect": "Zugang",
+        "VA": "6.80#5.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_136_211942388",
+    "Aspect_VA": [
+      {
+        "Aspect": "Maßnahmen",
+        "VA": "6.80#5.30"
+      },
+      {
+        "Aspect": "Versorgungssicherheit",
+        "VA": "7.30#6.80"
+      },
+      {
+        "Aspect": "Nachhaltigkeit",
+        "VA": "7.30#6.10"
+      },
+      {
+        "Aspect": "Preisen",
+        "VA": "6.80#5.30"
+      },
+      {
+        "Aspect": "Unternehmen",
+        "VA": "7.30#6.00"
+      },
+      {
+        "Aspect": "Solarenergie",
+        "VA": "7.30#6.10"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_899_211943459",
+    "Aspect_VA": [
+      {
+        "Aspect": "Forstwirtschaft",
+        "VA": "6.80#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_686_211943170",
+    "Aspect_VA": [
+      {
+        "Aspect": "Quote",
+        "VA": "6.80#5.40"
+      },
+      {
+        "Aspect": "Ungerechtigkeit",
+        "VA": "2.40#7.30"
+      },
+      {
+        "Aspect": "Frauen",
+        "VA": "2.80#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1088_211943733",
+    "Aspect_VA": [
+      {
+        "Aspect": "Wohnraum",
+        "VA": "2.30#7.40"
+      },
+      {
+        "Aspect": "Wohnungen",
+        "VA": "2.30#7.40"
+      },
+      {
+        "Aspect": "Willkommenskultur",
+        "VA": "2.30#7.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_244_211942545",
+    "Aspect_VA": [
+      {
+        "Aspect": "Fahrradwege",
+        "VA": "6.80#5.20"
+      },
+      {
+        "Aspect": "Verkehrskonzept",
+        "VA": "4.80#6.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_527_211942951",
+    "Aspect_VA": [
+      {
+        "Aspect": "Aufklärung",
+        "VA": "6.80#5.30"
+      },
+      {
+        "Aspect": "Impfungen",
+        "VA": "6.30#4.20"
+      },
+      {
+        "Aspect": "Selbstbestimmung",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_856_211943399",
+    "Aspect_VA": [
+      {
+        "Aspect": "Gewässern",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_339_211942681",
+    "Aspect_VA": [
+      {
+        "Aspect": "Verbote",
+        "VA": "2.70#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1023_211943633",
+    "Aspect_VA": [
+      {
+        "Aspect": "Existenzminimum",
+        "VA": "6.70#5.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_61_211942270",
+    "Aspect_VA": [
+      {
+        "Aspect": "Freiwilligkeit",
+        "VA": "6.80#5.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_647_211943117",
+    "Aspect_VA": [
+      {
+        "Aspect": "Sanktionen",
+        "VA": "2.40#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_725_211943217",
+    "Aspect_VA": [
+      {
+        "Aspect": "Wohnqualität",
+        "VA": "7.30#6.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_73_211942290",
+    "Aspect_VA": [
+      {
+        "Aspect": "Wälder",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_8_211942199",
+    "Aspect_VA": [
+      {
+        "Aspect": "Unternehmen",
+        "VA": "3.60#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_226_211942522",
+    "Aspect_VA": [
+      {
+        "Aspect": "wirtschaftliche Entwicklung",
+        "VA": "7.30#6.20"
+      },
+      {
+        "Aspect": "Lebensqualität",
+        "VA": "7.60#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_236_211942535",
+    "Aspect_VA": [
+      {
+        "Aspect": "Unterstützung",
+        "VA": "6.80#5.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_568_211943007",
+    "Aspect_VA": [
+      {
+        "Aspect": "Obernstraße",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Geschäfte",
+        "VA": "6.80#5.30"
+      },
+      {
+        "Aspect": "Bürger",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_603_211943050",
+    "Aspect_VA": [
+      {
+        "Aspect": "Bürgerbeteiligung",
+        "VA": "7.30#6.40"
+      },
+      {
+        "Aspect": "Demokratie",
+        "VA": "7.40#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_22_211942219",
+    "Aspect_VA": [
+      {
+        "Aspect": "Menschen in Not",
+        "VA": "7.80#7.30"
+      },
+      {
+        "Aspect": "Recht",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_347_211942690",
+    "Aspect_VA": [
+      {
+        "Aspect": "Arbeitsplätze",
+        "VA": "7.30#6.20"
+      },
+      {
+        "Aspect": "Wirtschaft",
+        "VA": "7.30#6.20"
+      },
+      {
+        "Aspect": "Strompreise",
+        "VA": "6.80#5.40"
+      },
+      {
+        "Aspect": "Preise",
+        "VA": "6.70#4.80"
+      },
+      {
+        "Aspect": "Kosten",
+        "VA": "4.80#3.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_969_211943558",
+    "Aspect_VA": [
+      {
+        "Aspect": "ökologische Landwirtschaft",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_231_211942527",
+    "Aspect_VA": [
+      {
+        "Aspect": "Unabhängigkeit",
+        "VA": "6.80#5.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_254_211942558",
+    "Aspect_VA": [
+      {
+        "Aspect": "Erhöhung",
+        "VA": "7.30#6.40"
+      },
+      {
+        "Aspect": "ÖPNV",
+        "VA": "7.30#6.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_124_211942370",
+    "Aspect_VA": [
+      {
+        "Aspect": "Arbeitsbedingungen",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Ausstattung",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Erzieher",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Bezahlung",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_463_211942855",
+    "Aspect_VA": [
+      {
+        "Aspect": "Wahlalter",
+        "VA": "6.30#3.80"
+      },
+      {
+        "Aspect": "Wahlrecht",
+        "VA": "6.80#5.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_530_211942954",
+    "Aspect_VA": [
+      {
+        "Aspect": "Verkehrssicherheit",
+        "VA": "7.30#6.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_449_211942836",
+    "Aspect_VA": [
+      {
+        "Aspect": "Tempo 30",
+        "VA": "2.80#6.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_666_211943142",
+    "Aspect_VA": [
+      {
+        "Aspect": "Einzelhandel",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "autonome Geschäfte",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_688_211943172",
+    "Aspect_VA": [
+      {
+        "Aspect": "Sanktionen",
+        "VA": "2.40#7.30"
+      },
+      {
+        "Aspect": "Regeln",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_987_211943584",
+    "Aspect_VA": [
+      {
+        "Aspect": "AfD",
+        "VA": "6.20#4.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_320_211942655",
+    "Aspect_VA": [
+      {
+        "Aspect": "Überprüfung",
+        "VA": "6.30#4.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_731_211943224",
+    "Aspect_VA": [
+      {
+        "Aspect": "Tempo 30",
+        "VA": "6.80#5.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_707_211943197",
+    "Aspect_VA": [
+      {
+        "Aspect": "Geschäftsinhaber",
+        "VA": "6.30#4.20"
+      },
+      {
+        "Aspect": "Arbeitnehmer",
+        "VA": "6.70#4.80"
+      },
+      {
+        "Aspect": "Wochenendarbeit",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1039_211943655",
+    "Aspect_VA": [
+      {
+        "Aspect": "Einnahmen",
+        "VA": "3.40#6.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_980_211943575",
+    "Aspect_VA": [
+      {
+        "Aspect": "Tierschutz",
+        "VA": "7.30#6.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_921_211943491",
+    "Aspect_VA": [
+      {
+        "Aspect": "Verbot von Verbrennungsmotoren",
+        "VA": "2.80#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1015_211943623",
+    "Aspect_VA": [
+      {
+        "Aspect": "Praxis",
+        "VA": "2.30#7.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_434_211942815",
+    "Aspect_VA": [
+      {
+        "Aspect": "Verfassungsschutz",
+        "VA": "6.80#5.20"
+      },
+      {
+        "Aspect": "Kontrolle",
+        "VA": "7.30#6.20"
+      },
+      {
+        "Aspect": "Vertrauen",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Transparenz",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_541_211942969",
+    "Aspect_VA": [
+      {
+        "Aspect": "Lobbyismus",
+        "VA": "2.80#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_999_211943602",
+    "Aspect_VA": [
+      {
+        "Aspect": "Ziel",
+        "VA": "6.30#4.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_170_211942433",
+    "Aspect_VA": [
+      {
+        "Aspect": "Wohnraum",
+        "VA": "6.80#5.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_563_211942999",
+    "Aspect_VA": [
+      {
+        "Aspect": "Ausreisepflicht",
+        "VA": "6.40#3.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_487_211942892",
+    "Aspect_VA": [
+      {
+        "Aspect": "Entlastungsangebote",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Angebotsformen",
+        "VA": "6.40#3.80"
+      },
+      {
+        "Aspect": "Pflegeversicherung",
+        "VA": "6.20#3.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_676_211943157",
+    "Aspect_VA": [
+      {
+        "Aspect": "Autobahnen",
+        "VA": "4.80#3.60"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_132_211942383",
+    "Aspect_VA": [
+      {
+        "Aspect": "Deutschland",
+        "VA": "6.80#4.70"
+      },
+      {
+        "Aspect": "Europa",
+        "VA": "6.80#5.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_785_211943295",
+    "Aspect_VA": [
+      {
+        "Aspect": "Beteiligung qualifizierter Frauen",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Geschlechtergerechtigkeit",
+        "VA": "7.60#6.80"
+      },
+      {
+        "Aspect": "Führungsqualität",
+        "VA": "7.30#6.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_546_211942975",
+    "Aspect_VA": [
+      {
+        "Aspect": "Unternehmen aus der EU",
+        "VA": "6.80#5.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1042_211943658",
+    "Aspect_VA": [
+      {
+        "Aspect": "Natur",
+        "VA": "6.80#5.30"
+      },
+      {
+        "Aspect": "Wälder",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_750_211943250",
+    "Aspect_VA": [
+      {
+        "Aspect": "Kandidaten",
+        "VA": "3.80#4.60"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_88_211942318",
+    "Aspect_VA": [
+      {
+        "Aspect": "Wintersport",
+        "VA": "2.40#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_81_211942300",
+    "Aspect_VA": [
+      {
+        "Aspect": "Geld",
+        "VA": "4.80#3.60"
+      },
+      {
+        "Aspect": "Kinder",
+        "VA": "7.60#7.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_911_211943475",
+    "Aspect_VA": [
+      {
+        "Aspect": "Energiewende",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_60_211942269",
+    "Aspect_VA": [
+      {
+        "Aspect": "Deutschkurse",
+        "VA": "7.20#6.40"
+      },
+      {
+        "Aspect": "Kita",
+        "VA": "6.20#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_246_211942547",
+    "Aspect_VA": [
+      {
+        "Aspect": "Zentralabitur",
+        "VA": "6.40#3.70"
+      },
+      {
+        "Aspect": "Lehrpläne",
+        "VA": "6.30#4.20"
+      },
+      {
+        "Aspect": "Wechsel",
+        "VA": "6.80#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_315_211942648",
+    "Aspect_VA": [
+      {
+        "Aspect": "Leistungsprinzip",
+        "VA": "6.80#5.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_852_211943395",
+    "Aspect_VA": [
+      {
+        "Aspect": "Hasskriminalität",
+        "VA": "2.40#7.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_900_211943461",
+    "Aspect_VA": [
+      {
+        "Aspect": "Ticket",
+        "VA": "6.80#5.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_372_211942724",
+    "Aspect_VA": [
+      {
+        "Aspect": "Massentierhaltung",
+        "VA": "4.20#3.60"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_948_211943531",
+    "Aspect_VA": [
+      {
+        "Aspect": "Preis",
+        "VA": "6.20#4.30"
+      },
+      {
+        "Aspect": "Kostenbeteiligung",
+        "VA": "6.30#4.20"
+      },
+      {
+        "Aspect": "ÖPNV",
+        "VA": "7.30#6.20"
+      },
+      {
+        "Aspect": "Bahnstrecken",
+        "VA": "6.70#4.80"
+      },
+      {
+        "Aspect": "Verbindungen",
+        "VA": "6.80#5.20"
+      },
+      {
+        "Aspect": "Fahrtzeiten",
+        "VA": "6.20#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_20_211942217",
+    "Aspect_VA": [
+      {
+        "Aspect": "Menschen",
+        "VA": "2.40#7.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_332_211942670",
+    "Aspect_VA": [
+      {
+        "Aspect": "Finanzierung der Länder",
+        "VA": "6.80#5.20"
+      },
+      {
+        "Aspect": "Schulen",
+        "VA": "6.80#5.70"
+      },
+      {
+        "Aspect": "Lehrkräfte",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Schulklassen",
+        "VA": "6.30#4.20"
+      },
+      {
+        "Aspect": "Schultypen",
+        "VA": "6.80#5.20"
+      },
+      {
+        "Aspect": "Grundschulen im ländlichen Raum",
+        "VA": "6.80#5.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_614_211943066",
+    "Aspect_VA": [
+      {
+        "Aspect": "Tiefengrundwasser",
+        "VA": "6.80#5.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1_211942184",
+    "Aspect_VA": [
+      {
+        "Aspect": "traditionellen Familie",
+        "VA": "6.80#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_798_211943311",
+    "Aspect_VA": [
+      {
+        "Aspect": "Natur",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Elbvertiefung",
+        "VA": "2.30#7.40"
+      },
+      {
+        "Aspect": "Schäden",
+        "VA": "2.30#7.40"
+      },
+      {
+        "Aspect": "Zusammenarbeit",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1027_211943638",
+    "Aspect_VA": [
+      {
+        "Aspect": "Förderschulen",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1003_211943607",
+    "Aspect_VA": [
+      {
+        "Aspect": "Einsatz von Bodycams",
+        "VA": "3.20#4.80"
+      },
+      {
+        "Aspect": "Kritik",
+        "VA": "4.80#3.60"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_383_211942738",
+    "Aspect_VA": [
+      {
+        "Aspect": "Tierhaltung",
+        "VA": "6.80#5.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_976_211943571",
+    "Aspect_VA": [
+      {
+        "Aspect": "Ansiedlungen",
+        "VA": "6.30#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_935_211943512",
+    "Aspect_VA": [
+      {
+        "Aspect": "Natur",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Wohnraum",
+        "VA": "7.30#6.20"
+      },
+      {
+        "Aspect": "Straßen",
+        "VA": "2.80#6.40"
+      },
+      {
+        "Aspect": "Radinfrastruktur",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_306_211942634",
+    "Aspect_VA": [
+      {
+        "Aspect": "Wohneigentum",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_641_211943108",
+    "Aspect_VA": [
+      {
+        "Aspect": "Weiterbau der A20",
+        "VA": "7.30#6.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_892_211943450",
+    "Aspect_VA": [
+      {
+        "Aspect": "Verteidigungsausgaben",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_109_211942348",
+    "Aspect_VA": [
+      {
+        "Aspect": "deutsche Sprache",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "deutsche Kultur",
+        "VA": "7.30#6.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_183_211942450",
+    "Aspect_VA": [
+      {
+        "Aspect": "Vernetzung",
+        "VA": "6.80#5.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_781_211943291",
+    "Aspect_VA": [
+      {
+        "Aspect": "ÖPNV",
+        "VA": "7.20#6.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_513_211942929",
+    "Aspect_VA": [
+      {
+        "Aspect": "Bildungssystem",
+        "VA": "6.40#3.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_993_211943593",
+    "Aspect_VA": [
+      {
+        "Aspect": "ÖPNV",
+        "VA": "2.40#6.80"
+      },
+      {
+        "Aspect": "Jahresticket",
+        "VA": "3.20#6.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_737_211943232",
+    "Aspect_VA": [
+      {
+        "Aspect": "Tempolimit",
+        "VA": "3.40#6.00"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_897_211943457",
+    "Aspect_VA": [
+      {
+        "Aspect": "Vermittlung",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_465_211942857",
+    "Aspect_VA": [
+      {
+        "Aspect": "Zukunftsinvestitionen",
+        "VA": "6.80#5.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1053_211943676",
+    "Aspect_VA": [
+      {
+        "Aspect": "Schulessen",
+        "VA": "7.30#6.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_446_211942830",
+    "Aspect_VA": [
+      {
+        "Aspect": "Bundeswehr",
+        "VA": "2.40#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_301_211942629",
+    "Aspect_VA": [
+      {
+        "Aspect": "Pflicht",
+        "VA": "3.20#4.80"
+      },
+      {
+        "Aspect": "Kapazitäten",
+        "VA": "2.30#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_349_211942692",
+    "Aspect_VA": [
+      {
+        "Aspect": "Lehrmittel",
+        "VA": "6.80#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_788_211943299",
+    "Aspect_VA": [
+      {
+        "Aspect": "Menschen",
+        "VA": "6.30#4.20"
+      },
+      {
+        "Aspect": "Sanktionierten",
+        "VA": "4.80#3.60"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_274_211942586",
+    "Aspect_VA": [
+      {
+        "Aspect": "Tempolimit",
+        "VA": "3.20#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_769_211943277",
+    "Aspect_VA": [
+      {
+        "Aspect": "Geld",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_550_211942981",
+    "Aspect_VA": [
+      {
+        "Aspect": "Grunderwerbsteuer",
+        "VA": "6.20#4.30"
+      },
+      {
+        "Aspect": "Wohnraum",
+        "VA": "7.40#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_118_211942360",
+    "Aspect_VA": [
+      {
+        "Aspect": "Familien",
+        "VA": "6.40#3.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_739_211943234",
+    "Aspect_VA": [
+      {
+        "Aspect": "Tiefengrundwasser",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_972_211943565",
+    "Aspect_VA": [
+      {
+        "Aspect": "Bundeswehr",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_12_211942205",
+    "Aspect_VA": [
+      {
+        "Aspect": "Sitzblockade",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Sitzblockaden",
+        "VA": "7.30#6.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_978_211943573",
+    "Aspect_VA": [
+      {
+        "Aspect": "Verantwortung",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Kinder aus einkommensschwachen Familien",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_258_211942562",
+    "Aspect_VA": [
+      {
+        "Aspect": "Schuldenbremse",
+        "VA": "2.30#7.40"
+      },
+      {
+        "Aspect": "Kommunen",
+        "VA": "2.70#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1058_211943684",
+    "Aspect_VA": [
+      {
+        "Aspect": "Freiwilligkeit",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Impfpflicht",
+        "VA": "4.60#5.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_970_211943559",
+    "Aspect_VA": [
+      {
+        "Aspect": "Veröffentlichungen von Bundesbehörden",
+        "VA": "2.60#6.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_395_211942763",
+    "Aspect_VA": [
+      {
+        "Aspect": "Grundsteuer",
+        "VA": "4.80#3.20"
+      },
+      {
+        "Aspect": "Bürger",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1084_211943729",
+    "Aspect_VA": [
+      {
+        "Aspect": "Schuldenbremse",
+        "VA": "6.80#4.70"
+      },
+      {
+        "Aspect": "Haushaltsüberschüsse",
+        "VA": "6.70#4.80"
+      },
+      {
+        "Aspect": "Investitionen",
+        "VA": "6.80#5.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_611_211943062",
+    "Aspect_VA": [
+      {
+        "Aspect": "EU",
+        "VA": "6.20#3.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1069_211943706",
+    "Aspect_VA": [
+      {
+        "Aspect": "Bevölkerung",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_812_211943331",
+    "Aspect_VA": [
+      {
+        "Aspect": "Verschuldung",
+        "VA": "4.80#4.60"
+      },
+      {
+        "Aspect": "Kreislaufwirtschaft",
+        "VA": "7.40#6.80"
+      },
+      {
+        "Aspect": "Schuldenbremse",
+        "VA": "4.60#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1045_211943663",
+    "Aspect_VA": [
+      {
+        "Aspect": "Fußgängerzone",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_113_211942353",
+    "Aspect_VA": [
+      {
+        "Aspect": "Bürgerbeteiligung",
+        "VA": "6.30#4.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_882_211943432",
+    "Aspect_VA": [
+      {
+        "Aspect": "Ladenöffnungszeiten",
+        "VA": "6.80#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_49_211942253",
+    "Aspect_VA": [
+      {
+        "Aspect": "Möglichkeit",
+        "VA": "3.40#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_774_211943283",
+    "Aspect_VA": [
+      {
+        "Aspect": "Förderung",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1048_211943669",
+    "Aspect_VA": [
+      {
+        "Aspect": "Grundsicherung",
+        "VA": "3.40#6.20"
+      },
+      {
+        "Aspect": "EU",
+        "VA": "4.80#6.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_522_211942943",
+    "Aspect_VA": [
+      {
+        "Aspect": "Militarisierung der Gesellschaft",
+        "VA": "2.40#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_142_211942397",
+    "Aspect_VA": [
+      {
+        "Aspect": "Klimakrise",
+        "VA": "2.40#7.30"
+      },
+      {
+        "Aspect": "Leben",
+        "VA": "7.40#6.80"
+      },
+      {
+        "Aspect": "Energiewende",
+        "VA": "7.30#6.20"
+      },
+      {
+        "Aspect": "Windenergie",
+        "VA": "6.80#5.30"
+      },
+      {
+        "Aspect": "vonSolarenergie",
+        "VA": "6.30#4.20"
+      },
+      {
+        "Aspect": "Wärmepumpen",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_225_211942521",
+    "Aspect_VA": [
+      {
+        "Aspect": "europäische Integration",
+        "VA": "2.40#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_409_211942783",
+    "Aspect_VA": [
+      {
+        "Aspect": "Sozialsysteme",
+        "VA": "2.60#6.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_598_211943042",
+    "Aspect_VA": [
+      {
+        "Aspect": "Schuldenbremse",
+        "VA": "6.80#5.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_439_211942822",
+    "Aspect_VA": [
+      {
+        "Aspect": "Flughäfen",
+        "VA": "6.20#3.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_599_211943043",
+    "Aspect_VA": [
+      {
+        "Aspect": "Diskriminierung",
+        "VA": "2.30#7.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_270_211942580",
+    "Aspect_VA": [
+      {
+        "Aspect": "Treibhausgasemissionen",
+        "VA": "4.80#3.60"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_552_211942983",
+    "Aspect_VA": [
+      {
+        "Aspect": "Polizei",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Bundeswehr",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_575_211943015",
+    "Aspect_VA": [
+      {
+        "Aspect": "Recht",
+        "VA": "6.80#5.40"
+      },
+      {
+        "Aspect": "Menschen",
+        "VA": "4.80#3.60"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_763_211943268",
+    "Aspect_VA": [
+      {
+        "Aspect": "Öffnungszeiten",
+        "VA": "6.20#3.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_253_211942557",
+    "Aspect_VA": [
+      {
+        "Aspect": "Frauen",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Parität",
+        "VA": "6.80#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_272_211942584",
+    "Aspect_VA": [
+      {
+        "Aspect": "Bahn",
+        "VA": "6.80#4.70"
+      },
+      {
+        "Aspect": "Ausstattung",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Angebots",
+        "VA": "6.80#5.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1033_211943648",
+    "Aspect_VA": [
+      {
+        "Aspect": "religionswissenschaftliche Lehre",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_470_211942864",
+    "Aspect_VA": [
+      {
+        "Aspect": "Förderung",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_659_211943130",
+    "Aspect_VA": [
+      {
+        "Aspect": "Ausbildungsplatzvergütung",
+        "VA": "4.20#3.60"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_406_211942779",
+    "Aspect_VA": [
+      {
+        "Aspect": "Werbeverbot",
+        "VA": "6.30#4.20"
+      },
+      {
+        "Aspect": "Werbung im öffentlichen Raum",
+        "VA": "3.60#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_512_211942927",
+    "Aspect_VA": [
+      {
+        "Aspect": "Fahrradstraßen",
+        "VA": "7.60#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_672_211943151",
+    "Aspect_VA": [
+      {
+        "Aspect": "kostenloser ÖPNV",
+        "VA": "7.60#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_218_211942511",
+    "Aspect_VA": [
+      {
+        "Aspect": "Verkehrspolitik",
+        "VA": "6.20#4.30"
+      },
+      {
+        "Aspect": "Individualverkehr",
+        "VA": "3.20#6.40"
+      },
+      {
+        "Aspect": "ÖPNV",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_323_211942659",
+    "Aspect_VA": [
+      {
+        "Aspect": "Kohleverstromung",
+        "VA": "3.20#6.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1060_211943689",
+    "Aspect_VA": [
+      {
+        "Aspect": "Förderschulen",
+        "VA": "6.30#4.80"
+      },
+      {
+        "Aspect": "Kinder",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_898_211943458",
+    "Aspect_VA": [
+      {
+        "Aspect": "Wald",
+        "VA": "6.30#4.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_581_211943022",
+    "Aspect_VA": [
+      {
+        "Aspect": "Religionsfreiheit",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_966_211943554",
+    "Aspect_VA": [
+      {
+        "Aspect": "Kooperationen",
+        "VA": "6.80#4.70"
+      },
+      {
+        "Aspect": "Ausgründungen",
+        "VA": "6.70#4.80"
+      },
+      {
+        "Aspect": "Entwicklungen",
+        "VA": "6.80#5.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_936_211943513",
+    "Aspect_VA": [
+      {
+        "Aspect": "Kommunen",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_217_211942510",
+    "Aspect_VA": [
+      {
+        "Aspect": "Unternehmen",
+        "VA": "2.30#7.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_68_211942284",
+    "Aspect_VA": [
+      {
+        "Aspect": "Schulgebäude",
+        "VA": "6.80#5.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_275_211942587",
+    "Aspect_VA": [
+      {
+        "Aspect": "Angebote",
+        "VA": "6.80#5.20"
+      },
+      {
+        "Aspect": "Menschen",
+        "VA": "6.80#5.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_411_211942785",
+    "Aspect_VA": [
+      {
+        "Aspect": "Forschungsfreiheit",
+        "VA": "6.80#5.20"
+      },
+      {
+        "Aspect": "Verbraucher",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_324_211942660",
+    "Aspect_VA": [
+      {
+        "Aspect": "Verbot",
+        "VA": "2.40#6.80"
+      },
+      {
+        "Aspect": "Schreibweise",
+        "VA": "3.40#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_825_211943352",
+    "Aspect_VA": [
+      {
+        "Aspect": "Einzelmaßnahme",
+        "VA": "3.20#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_33_211942234",
+    "Aspect_VA": [
+      {
+        "Aspect": "Betrieb",
+        "VA": "6.20#3.80"
+      },
+      {
+        "Aspect": "Infrastruktur",
+        "VA": "6.70#4.80"
+      },
+      {
+        "Aspect": "Flughafengesellschaft",
+        "VA": "6.30#4.20"
+      },
+      {
+        "Aspect": "Zuschüsse",
+        "VA": "3.80#4.60"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_235_211942533",
+    "Aspect_VA": [
+      {
+        "Aspect": "Lehrpläne",
+        "VA": "7.20#5.80"
+      },
+      {
+        "Aspect": "Bildungsgerechtigkeit",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Lehrplan",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_665_211943141",
+    "Aspect_VA": [
+      {
+        "Aspect": "Ausbau von Radwegen",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_553_211942984",
+    "Aspect_VA": [
+      {
+        "Aspect": "Gemeinschaftsschule",
+        "VA": "6.70#4.80"
+      },
+      {
+        "Aspect": "Gemeinschaftsschulen",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_778_211943287",
+    "Aspect_VA": [
+      {
+        "Aspect": "Grunderwerbsteuer",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_947_211943530",
+    "Aspect_VA": [
+      {
+        "Aspect": "Tempo 30",
+        "VA": "6.40#4.20"
+      },
+      {
+        "Aspect": "Verkehrstote",
+        "VA": "4.80#4.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_335_211942675",
+    "Aspect_VA": [
+      {
+        "Aspect": "Radverkehr",
+        "VA": "7.40#6.20"
+      },
+      {
+        "Aspect": "Radverkehrs",
+        "VA": "7.40#6.10"
+      },
+      {
+        "Aspect": "Radwegenetz",
+        "VA": "7.40#6.00"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_147_211942404",
+    "Aspect_VA": [
+      {
+        "Aspect": "Forstwirtschaft",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_547_211942976",
+    "Aspect_VA": [
+      {
+        "Aspect": "persönliche Freiheit",
+        "VA": "7.60#7.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_430_211942808",
+    "Aspect_VA": [
+      {
+        "Aspect": "Jobcenter",
+        "VA": "4.20#3.60"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_728_211943221",
+    "Aspect_VA": [
+      {
+        "Aspect": "Bepreisung",
+        "VA": "3.20#6.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_759_211943260",
+    "Aspect_VA": [
+      {
+        "Aspect": "Integration",
+        "VA": "6.80#4.70"
+      },
+      {
+        "Aspect": "Geflüchtete",
+        "VA": "6.70#4.80"
+      },
+      {
+        "Aspect": "Angebote",
+        "VA": "6.40#3.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_334_211942673",
+    "Aspect_VA": [
+      {
+        "Aspect": "Arbeitsbedingungen",
+        "VA": "7.30#6.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_748_211943248",
+    "Aspect_VA": [
+      {
+        "Aspect": "Staat",
+        "VA": "3.60#4.80"
+      },
+      {
+        "Aspect": "Bahn",
+        "VA": "6.20#4.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_929_211943503",
+    "Aspect_VA": [
+      {
+        "Aspect": "Unterbringung",
+        "VA": "6.80#5.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1068_211943705",
+    "Aspect_VA": [
+      {
+        "Aspect": "Leistungsfähigkeit",
+        "VA": "2.80#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1062_211943691",
+    "Aspect_VA": [
+      {
+        "Aspect": "Tempo 50",
+        "VA": "6.40#3.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_207_211942494",
+    "Aspect_VA": [
+      {
+        "Aspect": "Flugverkehr",
+        "VA": "7.30#6.40"
+      },
+      {
+        "Aspect": "Flughäfen",
+        "VA": "7.30#6.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1080_211943724",
+    "Aspect_VA": [
+      {
+        "Aspect": "Regelschulen",
+        "VA": "6.80#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_164_211942422",
+    "Aspect_VA": [
+      {
+        "Aspect": "Plätze",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_593_211943035",
+    "Aspect_VA": [
+      {
+        "Aspect": "Bürger",
+        "VA": "7.30#6.20"
+      },
+      {
+        "Aspect": "Asylbewerber",
+        "VA": "7.30#6.20"
+      },
+      {
+        "Aspect": "Ausreise",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_467_211942860",
+    "Aspect_VA": [
+      {
+        "Aspect": "Energiesperren",
+        "VA": "2.30#7.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_94_211942328",
+    "Aspect_VA": [
+      {
+        "Aspect": "Trinkwasser",
+        "VA": "6.80#5.40"
+      },
+      {
+        "Aspect": "Bildung",
+        "VA": "6.80#5.30"
+      },
+      {
+        "Aspect": "Gesundheitsversorgung",
+        "VA": "6.80#5.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_394_211942756",
+    "Aspect_VA": [
+      {
+        "Aspect": "Veröffentlichung",
+        "VA": "2.30#7.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_741_211943240",
+    "Aspect_VA": [
+      {
+        "Aspect": "Wissenschaft",
+        "VA": "6.70#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_601_211943047",
+    "Aspect_VA": [
+      {
+        "Aspect": "Leben",
+        "VA": "7.60#6.90"
+      },
+      {
+        "Aspect": "Absicherung",
+        "VA": "7.40#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_162_211942420",
+    "Aspect_VA": [
+      {
+        "Aspect": "Cannabis",
+        "VA": "2.40#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_776_211943285",
+    "Aspect_VA": [
+      {
+        "Aspect": "Grundsicherung",
+        "VA": "7.30#6.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_256_211942560",
+    "Aspect_VA": [
+      {
+        "Aspect": "Hessen",
+        "VA": "3.20#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_941_211943519",
+    "Aspect_VA": [
+      {
+        "Aspect": "Sanktionen",
+        "VA": "2.30#7.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_542_211942970",
+    "Aspect_VA": [
+      {
+        "Aspect": "Schulsystem",
+        "VA": "2.40#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_705_211943195",
+    "Aspect_VA": [
+      {
+        "Aspect": "Sicherheit",
+        "VA": "7.40#6.30"
+      },
+      {
+        "Aspect": "Polizeiarbeit",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Kontrollen",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Kriminalität",
+        "VA": "3.20#6.40"
+      },
+      {
+        "Aspect": "Migration",
+        "VA": "2.70#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_779_211943288",
+    "Aspect_VA": [
+      {
+        "Aspect": "Personenkontrolle",
+        "VA": "6.40#3.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_190_211942461",
+    "Aspect_VA": [
+      {
+        "Aspect": "Jugend",
+        "VA": "7.20#6.30"
+      },
+      {
+        "Aspect": "Berufsausbildung",
+        "VA": "7.30#6.20"
+      },
+      {
+        "Aspect": "Kostenbeteiligung",
+        "VA": "6.30#4.20"
+      },
+      {
+        "Aspect": "Großkonzerne",
+        "VA": "3.60#6.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1087_211943732",
+    "Aspect_VA": [
+      {
+        "Aspect": "Arbeit",
+        "VA": "6.80#5.40"
+      },
+      {
+        "Aspect": "Betriebe",
+        "VA": "6.40#3.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_441_211942824",
+    "Aspect_VA": [
+      {
+        "Aspect": "Betriebe",
+        "VA": "6.30#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_319_211942654",
+    "Aspect_VA": [
+      {
+        "Aspect": "Regeln",
+        "VA": "6.30#4.20"
+      },
+      {
+        "Aspect": "Grundrecht auf Asyl",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_1073_211943714",
+    "Aspect_VA": [
+      {
+        "Aspect": "Gehwege",
+        "VA": "6.80#6.20"
+      },
+      {
+        "Aspect": "Wege",
+        "VA": "6.30#4.70"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_697_211943187",
+    "Aspect_VA": [
+      {
+        "Aspect": "Abschiebungen",
+        "VA": "2.30#7.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_327_211942663",
+    "Aspect_VA": [
+      {
+        "Aspect": "Umgang",
+        "VA": "6.80#5.20"
+      },
+      {
+        "Aspect": "Wolf",
+        "VA": "6.80#5.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_14_211942207",
+    "Aspect_VA": [
+      {
+        "Aspect": "Ganztagsunterricht",
+        "VA": "4.80#3.60"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_570_211943010",
+    "Aspect_VA": [
+      {
+        "Aspect": "Landesfamiliengeldes",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_920_211943488",
+    "Aspect_VA": [
+      {
+        "Aspect": "Angriffskrieg",
+        "VA": "2.30#7.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_452_211942841",
+    "Aspect_VA": [
+      {
+        "Aspect": "EU",
+        "VA": "2.30#6.80"
+      },
+      {
+        "Aspect": "Europa",
+        "VA": "2.80#6.30"
+      },
+      {
+        "Aspect": "Bevölkerung",
+        "VA": "7.60#7.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_408_211942781",
+    "Aspect_VA": [
+      {
+        "Aspect": "Vertrauen",
+        "VA": "3.40#6.70"
+      },
+      {
+        "Aspect": "Veröffentlichung aller Akten",
+        "VA": "7.30#6.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_55_211942261",
+    "Aspect_VA": [
+      {
+        "Aspect": "Leistung",
+        "VA": "6.70#4.80"
+      },
+      {
+        "Aspect": "Eignung",
+        "VA": "6.70#4.80"
+      },
+      {
+        "Aspect": "Parteien",
+        "VA": "6.30#4.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_477_211942876",
+    "Aspect_VA": [
+      {
+        "Aspect": "Quotierung",
+        "VA": "3.20#6.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_192_211942463",
+    "Aspect_VA": [
+      {
+        "Aspect": "Krankenhäuser",
+        "VA": "3.20#6.40"
+      },
+      {
+        "Aspect": "Gesundheitssystem",
+        "VA": "4.60#5.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_62_211942274",
+    "Aspect_VA": [
+      {
+        "Aspect": "Antisemitismus",
+        "VA": "2.30#7.40"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_210_211942498",
+    "Aspect_VA": [
+      {
+        "Aspect": "Grundrecht auf Asyl",
+        "VA": "7.30#6.20"
+      },
+      {
+        "Aspect": "Migration",
+        "VA": "3.60#6.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_286_211942604",
+    "Aspect_VA": [
+      {
+        "Aspect": "Politik",
+        "VA": "6.80#5.20"
+      },
+      {
+        "Aspect": "Ladenschlussgesetze",
+        "VA": "3.20#4.80"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_458_211942847",
+    "Aspect_VA": [
+      {
+        "Aspect": "Windenergie",
+        "VA": "7.20#6.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_502_211942915",
+    "Aspect_VA": [
+      {
+        "Aspect": "Frauen",
+        "VA": "7.30#6.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_564_211943000",
+    "Aspect_VA": [
+      {
+        "Aspect": "frühkindliche Bildung",
+        "VA": "6.80#5.20"
+      },
+      {
+        "Aspect": "Startchancen",
+        "VA": "6.80#5.30"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_52_211942257",
+    "Aspect_VA": [
+      {
+        "Aspect": "Energieversorgung",
+        "VA": "6.30#4.20"
+      }
+    ]
+  },
+  {
+    "ID": "wahlomat_trip_229_211942525",
+    "Aspect_VA": [
+      {
+        "Aspect": "Lehrerberuf",
+        "VA": "7.40#6.30"
+      }
+    ]
+  }
+]
